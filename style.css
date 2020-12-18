@@ -1,0 +1,413 @@
+body
+{
+    background-color: #030303;
+}
+
+
+.design
+{
+    position: absolute;
+width: 1800px;
+height: 1200px;
+left: 144px;
+padding-left:144px;
+top: 90px; /*zoom stranice treba biti na 67%*/
+background: #030303;
+border-radius: 32px;
+z-index: 1;
+}
+
+.stroke
+{
+    position: absolute;
+    width: 1742px;
+   height: 1124px;
+left: 144px;
+top: 90px;
+
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 32px;
+z-index: 1;
+}
+.icon
+{
+    position: absolute;
+width: 66px;
+height: 66px;
+left: 52px;
+top: 52px;
+z-index: 1;
+}
+.logo 
+{
+    position: absolute;
+width: 285px;
+height: 45px;
+left: 350px;
+top: 254px;
+z-index: 1;
+}
+
+.bikes
+{
+    position: absolute;
+width: 61px;
+height: 40px;
+left: 775px;
+top: 263px;
+
+font-family: Druk Wide;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 183%;
+
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+z-index: 1;
+}
+.accessories
+{
+    position: absolute;
+width: 146px;
+height: 40px;
+left: 925px;
+top: 263px;
+
+font-family: Druk Wide;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 183%;
+
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+z-index: 1;
+}
+.new_tech
+{
+    position: absolute;
+width: 108px;
+height: 40px;
+left: 1125px;
+top: 263px;
+
+font-family: Druk Wide;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 183%;
+
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+z-index: 1;
+}
+.explore
+{
+    position: absolute;
+width: 96px;
+height: 40px;
+left: 1325px;
+top: 263px;
+
+font-family: Druk Wide;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 183%;
+
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+z-index: 1;
+}
+.motorcycle
+{
+    position: absolute;
+width: 1032px;
+height: 700px;
+left: 290px;
+top: 363px;
+z-index: 1;
+}
+.logo2
+{
+    position: absolute;
+width: 183.28px;
+height: 177.41px;
+left: 1100px;
+top: 413px;
+z-index: 1;
+}
+.vector
+{
+    position: absolute;
+width: 1724px;
+height: 150px;
+left: 132px;
+top: 939px;
+z-index: 1;
+}
+.left
+{
+    position: absolute;
+    width: 822px;
+    height: 150px;
+    left: 160px;
+    
+}
+.right
+{
+    position: absolute;
+    width: 822px;
+    height: 150px;
+    left: 1064px;   
+    z-index: 1;
+}
+.gold_corner
+{
+    position: absolute;
+width: 550px;
+height: 562px;
+left: 1479px;
+top: 181px;
+
+transform: matrix(0, 1, 1, 0, 0, 0);
+background-image:url("assets/img/Gold.png");
+background-repeat: no-repeat;
+border-radius: 32px;
+transform:rotate(360deg);
+z-index: 1;
+}
+.info
+{
+    position: absolute;
+width: 933px;
+height: 92px;
+left: 288px;
+top: 1187px;
+z-index: 1;
+}
+.info_text
+{
+    position: absolute;
+width: 406px;
+height: 92px;
+left: 650px;
+top: 0%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 200%;
+
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.small_bar_1
+{
+    position: relative;
+width: 140px;
+height: 2px;
+left: 290px;
+top: 17px;
+
+
+background: #A75B12;
+}
+.small_bar_2
+{
+    position: absolute;
+width: 226px;
+height: 2px;
+left: 290px;
+top: 17px;
+
+background: #FFFFFF;
+z-index: -1;
+}
+
+
+.show2
+{
+    position: absolute;
+width: 72px;
+height: 40px;
+left: 180px;
+top: 0%;
+
+font-family: Druk Wide;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 183%;
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+.show10
+{
+    position: absolute;
+    width: 72px;
+    height: 40px;
+    left: 558px;
+    top: 0%;
+    
+    font-family: Druk Wide;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 183%;
+    
+    display: flex;
+    align-items: center;
+    text-align: right;
+    
+    color: #FFFFFF;
+}
+.photo_wheel
+{
+    position: absolute;
+    width: 316px;
+    height: 700px;
+    left: 1395px;
+    top: 365px;
+    z-index: 2;
+}
+
+.photo_back
+{
+    position: absolute;
+width: 316px;
+height: 256px;
+left: 1392px;
+top: 1041px;
+z-index: 2;
+}
+
+.stats
+{
+    position: absolute;
+width: 347px;
+height: 749px;
+left: 1678px;
+top: 552px;
+
+background: linear-gradient(90deg, #030303 0%, #030303 100%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+z-index: 2;
+border-radius: 32px;
+}
+.top_speed
+{
+    position: absolute;
+    width: 305px;
+    height: 148px;
+    left: 1725px;
+    top: 617px;
+    z-index: 3;
+    
+}
+.power
+{
+    position: absolute;
+    width: 305px;
+    height: 148px;
+    left: 1725px;
+    top: 789px;
+    z-index: 3;
+}
+.torque
+{
+    position: absolute;
+width: 305px;
+height: 148px;
+left: 1725px;
+top: 961px;
+z-index: 3;
+}
+.fuel_capacity
+{
+    position: absolute;
+width: 305px;
+height: 148px;
+left: 1725px;
+top: 1133px;
+z-index: 3;
+}
+.block_shadow
+{
+    position: absolute;
+width: 172px;
+height: 1032px;
+left: 41.5%;
+top: 13.9%;
+
+background: linear-gradient(90deg, #030303 0%, rgba(6, 5, 7, 0) 100%);
+transform: matrix(0, -1, -1, 0, 0, 0);
+}
+.block_shadow1_back
+{
+    position: absolute;
+width: 80px;
+height: 316px;
+left: 37%;
+top: -49%;
+
+background: linear-gradient(90deg, #030303 0%, rgba(6, 5, 7, 0) 100%);
+transform: matrix(0, 1, 1, 0, 0, 0);
+}
+.block_shadow2_back
+{
+    position: absolute;
+width: 80px;
+height: 256px;
+left: 69%;
+top: 1.99%;
+
+background: linear-gradient(90deg, #030303 0%, rgba(6, 5, 7, 0) 100%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.block_shadow3_back
+{
+    position: absolute;
+width: 172px;
+height: 256px;
+left: 0%;
+top: 0%;
+
+background: linear-gradient(90deg, #030303 0%, rgba(6, 5, 7, 0) 100%);
+}
+.hide_container
+{
+    position: relative;
+    width: 240px;
+    height: 10px;
+    left: 290px;
+    top: 20px;
+    background-color:#030303;
+    z-index: 2;
+}

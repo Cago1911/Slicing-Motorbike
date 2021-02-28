@@ -38,6 +38,7 @@ height: 66px;
 left: 52px;
 top: 52px;
 z-index: 1;
+display: none;
 }
 .logo 
 {
@@ -410,4 +411,307 @@ background: linear-gradient(90deg, #030303 0%, rgba(6, 5, 7, 0) 100%);
     top: 20px;
     background-color:#030303;
     z-index: 2;
+    
+}
+.mobile_square1
+{
+    position: absolute;
+width: 508px;
+height: 1100px;
+left: 254px;
+top: 150px;
+
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 32px;
+}
+.slika_square1
+{
+    position: absolute;
+width: 504px;
+height: 468px;
+left: 0px;
+top: 127px;
+}
+.montblanc_square1
+{
+    position: absolute;
+width: 384px;
+height: 70px;
+left: 69px;
+top: 684px;
+}
+.motorcycle_square1
+{
+    position: absolute;
+width: 183.28px;
+height: 177.41px;
+left: 162px;
+top: 461px;
+
+
+}
+.logo_mobile
+{
+    position: absolute;
+width: 285px;
+height: 45px;
+left: 112px;
+top: 34px;
+}
+.text_square1
+{
+    position: absolute;
+width: 384px;
+height: 248px;
+left: 62px;
+top: 778px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 200%;
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+.mobile_square2
+{
+    position: absolute;
+width: 508px;
+height: 1541.33px;
+left: 254px;
+top: 1275px;
+
+background: #030303;
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 32px;
+}
+.logo_square2
+{
+    
+position: absolute;
+width: 285px;
+height: 45px;
+left: 112px;
+top: 34px;
+}
+.lampa_square2
+{
+    position: absolute;
+    width: 501px;
+    height: 484px;
+    left: 0px;
+    top: 139px;
+}
+.lampa_square2 img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.straga_square2 img
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+.shadow_lampa1
+{
+    width: 172px;
+    height: 768px;
+    left: -1px;
+    top: -20px;
+    
+    background: linear-gradient(90deg, #030303 0%, rgba(6, 5, 7, 0) 100%);
+    transform: rotate(90deg);
+}
+.shadow_lampa2
+{
+    position: absolute;
+    width: 172px;
+    height: 768px;
+    left: -1px;
+    top: 300px;
+    
+    background: linear-gradient(90deg, #030303 0%, rgba(6, 5, 7, 0) 100%);
+    transform: matrix(0, -1, -1, 0, 0, 0);
+}
+.straga_square2
+{
+    position: absolute;
+width: 501px;
+height: 407px;
+left: 0px;
+top: 439px;
+background: url("straznjidiomotora.svg");
+}
+.shadow_straga1
+{
+    position: absolute;
+width: 172px;
+height: 768px;
+left: 35px;
+top: -300px;
+
+background: linear-gradient(90deg, #030303 0%, rgba(5, 6, 7, 0) 100%);
+transform: rotate(90deg);
+}
+.shadow_straga2
+{
+    position: absolute;
+width: 172px;
+height: 768px;
+left: 35px;
+top: -10px;
+
+background: linear-gradient(90deg, #030303 0%, rgba(6, 5, 7, 0) 100%);
+transform: matrix(0, -1, -1, 0, 0, 0);
+}
+.japanska_slova
+{
+    position: absolute;
+width: 822px;
+height: 150px;
+left: 0px;
+top: 725px;
+}
+.topspeed_square2
+{
+    position: absolute;
+width: 305px;
+height: 148px;
+left: 62px;
+top: 900px;
+}
+
+.power_square2
+{
+    position: absolute;
+    width: 305px;
+    height: 148px;
+    left: 351px;
+    top: 900px;
+}
+.loadingbar_square2
+{
+    
+position: absolute;
+width: 384px;
+height: 40px;
+left: 62px;
+top: 1100px;
+}
+.text_square2
+{
+    position: absolute;
+width: 384px;
+height: 104px;
+left: 62px;
+top: 1200px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 200%;
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.srce_square2
+{
+    position: absolute;
+left: 17.72%;
+right: 79.13%;
+top: 90.45%;
+bottom: 8.27%;
+
+}
+.okvir_square2
+{
+    
+position: absolute;
+width: 72px;
+height: 72px;
+left: 62px;
+top: 88.7%;
+}
+.addtocart_square2
+{   
+position: absolute;
+width: 280px;
+height: 72px;
+left: 166px;
+top: 88.6%;
+}
+.addtocart_text
+{
+    position: absolute;
+width: 280px;
+height: 72px;
+left: 218px;
+top: 88.6%;
+
+font-family: Druk Wide;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 183%;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #030303;
+}
+.mobile_logo
+{
+position: absolute;
+left: 2.76%;
+right: 94.38%;
+top: 3.68%;
+bottom: 92.51%;
+height: 60;
+width:60;
+}
+@media only screen and (max-width: 480px)
+{
+    .mobitel
+    {
+        display: none;
+    }
+    .mobile_logo
+    {
+        display: flex !important;
+    }
+    .mobile_square2
+    {
+        display:none !important;
+    }
+   
+}
+@media only screen and (max-width: 1000px)
+{
+    .desktop
+    {
+        display: none;
+    }
+    .icon
+    {
+        display: flex !important;
+    }
+    
+}
+@media only screen and (min-width: 1000px)
+{
+    .mobitel
+    {
+        display:none;
+    }
+    
 }

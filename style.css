@@ -25,9 +25,9 @@ z-index: 1;
 left: 144px;
 top: 90px;
 
-border: 2px solid #FFFFFF;
+/* border: 2px solid #FFFFFF;
 box-sizing: border-box;
-border-radius: 32px;
+border-radius: 32px; */
 z-index: 1;
 }
 .icon

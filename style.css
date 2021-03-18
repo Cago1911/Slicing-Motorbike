@@ -416,19 +416,20 @@ background: linear-gradient(90deg, #030303 0%, rgba(6, 5, 7, 0) 100%);
 .mobile_square1
 {
     position: absolute;
-width: 508px;
+width: 700px;
+/*width: 508px; */
 height: 1100px;
 left: 254px;
 top: 150px;
 
-border: 2px solid #FFFFFF;
+/* border: 2px solid #FFFFFF;
 box-sizing: border-box;
-border-radius: 32px;
+border-radius: 32px; */
 }
 .slika_square1
 {
     position: absolute;
-width: 504px;
+width: 700px;
 height: 468px;
 left: 0px;
 top: 127px;
@@ -482,15 +483,16 @@ color: #FFFFFF;
 .mobile_square2
 {
     position: absolute;
-width: 508px;
+width: 700px;
+/*width: 508px; */
 height: 1541.33px;
 left: 254px;
 top: 1275px;
 
-background: #030303;
+/* background: #030303;
 border: 2px solid #FFFFFF;
 box-sizing: border-box;
-border-radius: 32px;
+border-radius: 32px; */
 }
 .logo_square2
 {
@@ -626,7 +628,7 @@ color: #FFFFFF;
 .srce_square2
 {
     position: absolute;
-left: 17.72%;
+left: 13%;
 right: 79.13%;
 top: 90.45%;
 bottom: 8.27%;
@@ -705,7 +707,7 @@ width:60;
     {
         display: flex !important;
     }
-    
+
 }
 @media only screen and (min-width: 1000px)
 {
